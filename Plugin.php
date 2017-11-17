@@ -49,7 +49,7 @@ class Plugin extends Base
     }
 
     public function getPluginHomepage() {
-        return 'https://github.com/kanboard/plugin-example-css';
+        return 'https://github.com/siryan2/kanboard-plugin-tasklabel';
     }
 
     /**
