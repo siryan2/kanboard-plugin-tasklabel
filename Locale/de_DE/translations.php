@@ -7,4 +7,5 @@ return array(
     'Task Update PROD' => 'Aufgabe Update PROD',
     'Task done' => 'Aufgabe erledigt',
     'Actually not neccessary' => 'Aktuell nicht nötig',
+    'Task closed' => 'Aufgabe abgeschlossen',
 );
